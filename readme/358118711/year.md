@@ -1,7 +1,7 @@
 ## [🔙 github-profile-views-counter](https://github.com/15pkzhaozhu/github-profile-views-counter)
 
-### :octocat: [pk](https://github.com/15pkzhaozhu/pk)
-![Image of github-profile-views-counter](https://github.com/15pkzhaozhu/github-profile-views-counter/blob/master/graph/36483482/large/year.png)
+### :octocat: [python-wechaty](https://github.com/15pkzhaozhu/python-wechaty)
+![Image of github-profile-views-counter](https://github.com/15pkzhaozhu/github-profile-views-counter/blob/master/graph/358118711/large/year.png)
 
 <details>
 	<summary>Click to expand table</summary>
@@ -168,14 +168,14 @@
 
 ## ✂️Copy and 📋 Paste
 ### SVG Badge
-[![Image of github-profile-views-counter](https://github.com/15pkzhaozhu/github-profile-views-counter/blob/master/svg/36483482/badge.svg)](https://github.com/15pkzhaozhu/github-profile-views-counter/blob/master/readme/36483482/week.md)
+[![Image of github-profile-views-counter](https://github.com/15pkzhaozhu/github-profile-views-counter/blob/master/svg/358118711/badge.svg)](https://github.com/15pkzhaozhu/github-profile-views-counter/blob/master/readme/358118711/week.md)
 ```readme
-[![Image of github-profile-views-counter](https://github.com/15pkzhaozhu/github-profile-views-counter/blob/master/svg/36483482/badge.svg)](https://github.com/15pkzhaozhu/github-profile-views-counter/blob/master/readme/36483482/week.md)
+[![Image of github-profile-views-counter](https://github.com/15pkzhaozhu/github-profile-views-counter/blob/master/svg/358118711/badge.svg)](https://github.com/15pkzhaozhu/github-profile-views-counter/blob/master/readme/358118711/week.md)
 ```
 ### Header
-# pk [<img alt="Image of github-profile-views-counter" src="https://github.com/15pkzhaozhu/github-profile-views-counter/blob/master/graph/36483482/small/year.png" height="20">](https://github.com/15pkzhaozhu/github-profile-views-counter/blob/master/readme/36483482/year.md)
+# python-wechaty [<img alt="Image of github-profile-views-counter" src="https://github.com/15pkzhaozhu/github-profile-views-counter/blob/master/graph/358118711/small/year.png" height="20">](https://github.com/15pkzhaozhu/github-profile-views-counter/blob/master/readme/358118711/year.md)
 ```readme
-# pk [<img alt="Image of github-profile-views-counter" src="https://github.com/15pkzhaozhu/github-profile-views-counter/blob/master/graph/36483482/small/year.png" height="20">](https://github.com/15pkzhaozhu/github-profile-views-counter/blob/master/readme/36483482/year.md)
+# python-wechaty [<img alt="Image of github-profile-views-counter" src="https://github.com/15pkzhaozhu/github-profile-views-counter/blob/master/graph/358118711/small/year.png" height="20">](https://github.com/15pkzhaozhu/github-profile-views-counter/blob/master/readme/358118711/year.md)
 ```
 [**Set up GitHub Profile Views Counter for your repositories**](https://github.com/gayanvoice/github-profile-views-counter)
 ## ⛔ DO NOT
