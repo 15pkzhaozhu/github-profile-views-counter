@@ -4,6 +4,8 @@
   "language": "en-US",
   "repository": [
     "nightteam.github.io",
-    "pk"
+    "pk",
+    "python-wechaty",
+    "github-profile-views-counter"
   ]
 }
