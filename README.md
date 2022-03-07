@@ -26,7 +26,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2022/3/4 12:28 AM UTC
+			2022/3/5 12:23 AM UTC
 		</td>
 		<td>
 			1
@@ -42,7 +42,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2022/3/4 12:28 AM UTC
+			2022/3/5 12:23 AM UTC
 		</td>
 		<td>
 			1
@@ -58,7 +58,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2022/3/4 12:29 AM UTC
+			2022/3/5 12:23 AM UTC
 		</td>
 		<td>
 			0
@@ -67,25 +67,9 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			<img alt="Response time graph" src="https://github.com/15pkzhaozhu/github-profile-views-counter/raw/master/graph/358118711/small/year.png" height="20"> 0
 		</td>
 	</tr>
-	<tr>
-		<td>
-			<a href="https://github.com/15pkzhaozhu/github-profile-views-counter/tree/master/readme/386482765/year.md">
-				github-profile-views-counter
-			</a>
-		</td>
-		<td>
-			2022/3/4 12:29 AM UTC
-		</td>
-		<td>
-			2
-		</td>
-		<td>
-			<img alt="Response time graph" src="https://github.com/15pkzhaozhu/github-profile-views-counter/raw/master/graph/386482765/small/year.png" height="20"> 47
-		</td>
-	</tr>
 </table>
 
-<small><i>Last updated on 2022/3/6 6:05 PM UTC</i></small>
+<small><i>Last updated on 2022/3/7 12:23 AM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### Total Views Badge
