@@ -21,22 +21,6 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/15pkzhaozhu/github-profile-views-counter/tree/master/readme/288138625/year.md">
-				nightteam.github.io
-			</a>
-		</td>
-		<td>
-			2022/3/10 12:21 AM UTC
-		</td>
-		<td>
-			1
-		</td>
-		<td>
-			<img alt="Response time graph" src="https://github.com/15pkzhaozhu/github-profile-views-counter/raw/master/graph/288138625/small/year.png" height="20"> 1
-		</td>
-	</tr>
-	<tr>
-		<td>
 			<a href="https://github.com/15pkzhaozhu/github-profile-views-counter/tree/master/readme/36483482/year.md">
 				pk
 			</a>
@@ -85,7 +69,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 </table>
 
-<small><i>Last updated on 2022/3/12 12:22 AM UTC</i></small>
+<small><i>Last updated on 2022/3/12 6:06 AM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### Total Views Badge
